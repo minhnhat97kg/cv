@@ -43,7 +43,7 @@ Performance-driven Senior Backend Developer with **5+ years of experience**, spe
 
 ### **HDBank (HCMC Development Joint Stock Commercial Bank)** | Ho Chi Minh City
 **Backend Developer** | *Jun 2022 – Apr 2023*
-*Project: BNPL (Buy Now Pay Later) Standalone App*
+*Project: BNPL (Buy Now Pay Later) Muadee*
 
 * **Automated Lending:** Developed a standalone BNPL application featuring a **fully automated credit approval process**, allowing users to register and receive credit limits within minutes.
 * **Payment Ecosystem:** Integrated with major payment aggregators (**VNPay, Payoo, VietQR**) via QR code scanning and deeplink, enabling seamless usage of credit limits at thousands of merchant points.
