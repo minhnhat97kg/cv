@@ -1,6 +1,6 @@
 # NHAT HUYNH
 **Senior Backend Developer (Golang & Java Focus)**
-*Email: minhnhat97kg@gmail.com | Mobile: +84 817 288 128 | LinkedIn: linkedin.com/in/nhathuynhkg*
+*Email: minhnhat97kg@gmail.com | LinkedIn: linkedin.com/in/nhathuynhkg*
 
 ---
 
