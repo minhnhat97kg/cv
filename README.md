@@ -1,6 +1,4 @@
----
-
-# NHAT HUYNH
+# NHAT HUYNH (Nathan)
 
 **Senior Backend Developer**
 *Ho Chi Minh City, Vietnam*
