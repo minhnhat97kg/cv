@@ -1,9 +1,10 @@
+---
 
 # NHAT HUYNH
 
-**Senior Backend Developer (Golang & Java Focus)**
+**Senior Backend Developer**
 *Ho Chi Minh City, Vietnam*
-*Email: minhnhat97kg@gmail.com | LinkedIn: [linkedin.com/in/nhathuynhkg*](https://www.google.com/search?q=https://linkedin.com/in/nhathuynhkg)
+*Email: minhnhat97kg@gmail.com | LinkedIn: [linkedin.com/in/nhathuynhkg*](https://linkedin.com/in/nhathuynhkg)
 
 ---
 
@@ -15,7 +16,7 @@ Performance-driven Senior Backend Developer with **5+ years of experience**, spe
 
 ## TECHNICAL SKILLS
 
-* **Languages:** Golang (Expert), Java (Strong), Node.js, TypeScript, SQL.
+* **Languages:** Golang, Java, Node.js.
 * **Banking & Fintech:** Payment Gateway Integration (**Payoo, VNPay, VietQR, Stripe, Xendit, MPGS, Visa/MasterCard**), BNPL Logic, Core Banking Logic, Financial Reconciliation.
 * **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Serverless Framework.
 * **Security:** Keycloak, OAuth2, OIDC, RBAC, AES-256 Encryption.
