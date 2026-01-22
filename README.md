@@ -1,4 +1,5 @@
-# NHAT HUYNH (Nathan)
+
+# NHAT HUYNH
 
 **Senior Backend Developer**
 *Ho Chi Minh City, Vietnam*
@@ -14,7 +15,7 @@ Performance-driven Senior Backend Developer with **5+ years of experience**, spe
 
 ## TECHNICAL SKILLS
 
-* **Languages:** Golang, Java, Node.js.
+* **Programming:** Golang, Java, Node.js, TypeScript, SQL.
 * **Banking & Fintech:** Payment Gateway Integration (**Payoo, VNPay, VietQR, Stripe, Xendit, MPGS, Visa/MasterCard**), BNPL Logic, Core Banking Logic, Financial Reconciliation.
 * **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Serverless Framework.
 * **Security:** Keycloak, OAuth2, OIDC, RBAC, AES-256 Encryption.
@@ -89,3 +90,13 @@ Performance-driven Senior Backend Developer with **5+ years of experience**, spe
 **Can Tho University**
 *Bachelor of Information Technology*
 **GPA: 3.42/4.0** (Very Good)
+
+---
+
+## LANGUAGES
+
+* **English:** **Professional Working Proficiency**
+* *Capable of communicating effectively and handling technical discussions in an all-English environment.*
+
+
+* **Vietnamese:** Native
